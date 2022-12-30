@@ -1,0 +1,2 @@
+RewriteEngine on
+ErrorDocument 404 http://localhost/myblog/frontend/404.php
